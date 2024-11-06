@@ -90,10 +90,10 @@ Visit the link to access the app similar to the below output.
 ![Screenshot 2024-11-06 at 12 38 12 PM](https://github.com/user-attachments/assets/60dc80f9-9295-406d-9364-754f5cf80ac8)
 
 ##### Sample input songs for testing:
-    -Danny Boy
-    -Up And Down
-    -Not Alone
-    *Note: The inputs are case-sensitive
+    1.Danny Boy
+    2.Up And Down
+    3.Not Alone
+    *Note: The inputs are case-sensitive*
 
 
 ## Repository Contents
@@ -114,6 +114,4 @@ This project is open-source and available under the MIT License.
 ---
 
 This README provides a full guide for setting up, running, and using your music recommendation system. Let me know if there are additional details you would like included!
-
-### Sample Output
 
