@@ -15,8 +15,8 @@ This project builds a music recommendation system that can suggest similar music
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Navashakthi/music-recommendation-system.git
-cd music-recommendation-system
+[git clone https://github.com/Navashakthi/music-recommendation-system.git
+cd music-recommendation-system](https://github.com/Navashakthi/Music-Recommendation-System-Content-Based-Approach-with-Gradio-APP.git)
 ```
 
 ### 2. Execute music_recommendation.ipynb
