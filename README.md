@@ -90,13 +90,10 @@ Visit the link to access the app similar to the below output.
 ![Screenshot 2024-11-06 at 12 38 12 PM](https://github.com/user-attachments/assets/60dc80f9-9295-406d-9364-754f5cf80ac8)
 
 ##### Sample input songs for testing:
-Danny Boy
-
-Up And Down
-
-Not Alone
-
-*Note: The inputs are case-sensitive
+    -Danny Boy
+    -Up And Down
+    -Not Alone
+    *Note: The inputs are case-sensitive
 
 
 ## Repository Contents
